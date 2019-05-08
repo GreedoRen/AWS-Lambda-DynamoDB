@@ -1,0 +1,23 @@
+{
+  "name": "AWS-Lambda-DynamoDB",
+  "version": "1.0.0",
+  "description": "Build a complete Rest API using Lambda and DynamoDB",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreedoRen/AWS-Lambda-DynamoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreedoRen/AWS-Lambda-DynamoDB/issues"
+  },
+  "homepage": "https://github.com/GreedoRen/AWS-Lambda-DynamoDB#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
